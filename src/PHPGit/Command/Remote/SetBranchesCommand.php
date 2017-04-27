@@ -1,8 +1,8 @@
 <?php
 
-namespace PHPGit\Command\Remote;
+namespace Jd3\PHPGit\Command\Remote;
 
-use PHPGit\Command;
+use Jd3\PHPGit\Command;
 
 /**
  * Changes the list of branches tracked by the named remote

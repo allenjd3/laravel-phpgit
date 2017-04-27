@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPGit\Exception;
+namespace Jd3\PHPGit\Exception;
 
 /**
  * @author Kazuyuki Hayashi <hayashi@valnur.net>

@@ -1,9 +1,9 @@
 <?php
 
-namespace PHPGit\Command;
+namespace Jd3\PHPGit\Command;
 
-use PHPGit\Command;
-use PHPGit\Exception\GitException;
+use Jd3\PHPGit\Command;
+use Jd3\PHPGit\Exception\GitException;
 
 /**
  * Reset current HEAD to the specified state - `git reset`

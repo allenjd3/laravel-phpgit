@@ -1,8 +1,8 @@
 <?php
 
-namespace PHPGit\Command\Remote;
+namespace Jd3\PHPGit\Command\Remote;
 
-use PHPGit\Command;
+use Jd3\PHPGit\Command;
 
 /**
  * Sets or deletes the default branch (i.e. the target of the symbolic-ref refs/remotes/<name>/HEAD) for the named remote

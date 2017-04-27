@@ -1,8 +1,8 @@
 <?php
 
-namespace PHPGit\Command\Remote;
+namespace Jd3\PHPGit\Command\Remote;
 
-use PHPGit\Command;
+use Jd3\PHPGit\Command;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 
 /**

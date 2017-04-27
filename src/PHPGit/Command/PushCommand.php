@@ -1,8 +1,8 @@
 <?php
 
-namespace PHPGit\Command;
+namespace Jd3\PHPGit\Command;
 
-use PHPGit\Command;
+use Jd3\PHPGit\Command;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 
 /**

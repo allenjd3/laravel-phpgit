@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPGit;
+namespace Jd3\PHPGit;
 
 use PHPGit\Command;
 use PHPGit\Exception\GitException;

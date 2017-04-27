@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPGit;
+namespace Jd3\PHPGit;
 
 
 use Symfony\Component\OptionsResolver\OptionsResolver;
